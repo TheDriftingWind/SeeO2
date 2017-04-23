@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SeeO2</string>
+
+    <!--Main Activity Buttons -->
+    <string name="MyEmissions">My Emissions</string>
+    <string name="NationalStatus">National Status</string>
+
+    <!-- Selection Activity Buttons -->
+    <string name="MyDriving">My Driving</string>
+    <string name="MyHome">My Home</string>
+
+    <!-- Driving Activity -->
+    <string name="Make">Make:</string>
+    <string name="Model">Model:</string>
+    <string name="Year">Year:</string>
+    <string name="DailyDistance">Daily Distance Driven(mi):</string>
+    <string name="Results">Results</string>
+
+    <string name="mockValue">Target Footprint: 3700 kg</string>
+
+    <!-- Household Activity -->
+    <string name="Electric">Monthly Electrictiy Bill(USD):</string>
+    <string name="Gas">Monthly Gas Bill(USD)</string>
+    <string name="Bathrooms">No. of Bathrooms</string>
+
+</resources>
